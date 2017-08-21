@@ -1,0 +1,9 @@
+Arithmetic Symbols
+
+    +    // Add
+	-    // Subtract
+	*    // Multiply
+	/    // Divide
+	%    // Returns remainder (Modulus)
+	++   // Increase by one   (Increment)
+	--   // Decrease by one   (Decrement)
